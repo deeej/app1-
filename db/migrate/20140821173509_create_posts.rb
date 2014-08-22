@@ -8,3 +8,7 @@ class CreatePosts < ActiveRecord::Migration
     end
   end
 end
+
+puts "hello world" 
+ 
+ end 
